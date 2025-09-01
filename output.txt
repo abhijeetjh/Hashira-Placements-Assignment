@@ -1,2 +1,2 @@
 Polynomial degree: 4
-Constant term c = -14544
+Constant term c = 13104
